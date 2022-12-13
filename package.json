@@ -1,0 +1,8 @@
+{
+  "name": "aoc-2022",
+  "type": "module",
+  "scripts": {
+    "prep": "node prepare.js"
+  },
+  "license": "ISC"
+}
